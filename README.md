@@ -1,1 +1,1 @@
-# Long-read-RNAsequencing analysis
+# Long-read-RNA sequencing analysis
